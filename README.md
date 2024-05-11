@@ -1,5 +1,3 @@
-<img src="assets/me.jpg" align="right" width="200"/>
-
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Привет всем, Меня зовут Николай! Я Python Back-end разработчик. 
 
 
