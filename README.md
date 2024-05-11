@@ -35,6 +35,7 @@ I’m currently working on ...
 <img src="https://img.shields.io/badge/Docker_Compose-282C34?logo=docker&logoColor=40cbf5" alt="Docker logo" title="Docker-compose" height="25" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 <img src="https://img.shields.io/badge/Pydantic-282C34?logo=pydantic&logoColor=ce1e82" alt="Pydantic logo" title="Pydantic" height="25" />
+ <img src="https://img.shields.io/badge/SqlAlchemy-282C34?logo=sqlalchemy&logoColor=red" alt="SqlAlchemy logo" title="SqlAlchemy" height="25" />
 <img src="https://img.shields.io/badge/Nats-282C34?logo=natsdotio&logoColor=4bbe4a" alt="Nats logo" title="Nats" height="25" />
 <img src="https://img.shields.io/badge/Aiogram-282C34?logo=telegram" alt="Aiogram logo" title="Aiogram" height="25" />
 <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />
