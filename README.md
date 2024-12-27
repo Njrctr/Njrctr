@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Привет всем, Меня зовут Николай! Я Python Back-end разработчик. 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Привет всем, Меня зовут Николай! Я Python+Go Back-end разработчик. 
 
 
 - ⚡ Мой путь в Айти начался в 2020 году, именно тогда я впервые написал незамысловатую фразу "Hello world" в html документе и свой первый проект <a href=https://github.com/Njrctr/myproject>~как стыдно то~</a>(тык)... 
